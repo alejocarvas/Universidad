@@ -17,3 +17,7 @@ presente repositorio. Para crear la base de datos lo único que se debe hacer es
 Después de esto se deberá modificar la cadena de conexión a la base de datos, la cuál se encuentra en el archivo de configuración del API, en la siguiente imagen podrá verlo:
 
 ![image](https://user-images.githubusercontent.com/72578049/201194475-1f2d4084-1edb-430a-a0d6-434596cab473.png)
+
+Allí deberá modificar la cadena de conexión con la información del SQL Server que haya seleccionado para ejecutar el proyecto así:
+
+![image](https://user-images.githubusercontent.com/72578049/201194875-8e812eef-c923-44a4-b536-79b643b2f947.png)
